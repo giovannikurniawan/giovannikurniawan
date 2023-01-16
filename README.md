@@ -14,3 +14,7 @@ Hi There!👋 I'm Giovanni.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannikurniawan&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannikurniawan&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+#### DevCard
+
+<a href="https://app.daily.dev/giovannikurniawn"><img src="https://api.daily.dev/devcards/a24440acbeac44d095cc6f360ab0d820.png?r=5uk" width="400" alt="Giovanni Kurniawan's Dev Card"/></a>
