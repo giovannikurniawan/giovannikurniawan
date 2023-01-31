@@ -9,7 +9,3 @@ Hi There!👋 I'm Giovanni.
 - 💬 Ask me about programming.
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: HTML and CSS are not coding languages.
-
-#### DevCard
-
-<a href="https://app.daily.dev/giovannikurniawn"><img src="https://api.daily.dev/devcards/a24440acbeac44d095cc6f360ab0d820.png?r=5uk" width="400" alt="Giovanni Kurniawan's Dev Card"/></a>
